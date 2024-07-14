@@ -1,0 +1,30 @@
+{
+    "parent": {
+      "database_id": "be5f88cb-25ab-447c-b153-c46f2d87aa04"
+    },
+    "properties": {
+      "Title": {
+        "title": [
+          {
+            "text": {
+              "content": "F2 races"
+            }
+          }
+        ]
+      },
+      "url": {
+        "rich_text": [
+          {
+            "text": {
+              "content": "www.f1.com"
+            }
+          }
+        ]
+      },
+      "Published": {
+        "date": {
+          "start": "2024-04-20"
+        }
+      }
+    }
+  }
