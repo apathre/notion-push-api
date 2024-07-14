@@ -14,7 +14,6 @@ from notion_client import fetch_from_notion, post_to_notion, patch_to_notion, pu
 
 app = FastAPI()
 
-db_id ="be5f88cb25ab447cb153c46f2d87aa04"
 
 
 @app.get("/")

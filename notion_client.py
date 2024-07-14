@@ -1,7 +1,7 @@
 import requests
 
 NOTION_API_BASE_URL = "https://api.notion.com/v1/"
-NOTION_API_KEY ="secret_8Ohy6v8BeZQj3zMyg6F9qr1gOLImmqPEOxavtFMOTnI"
+NOTION_API_KEY ="notion_secret_8Ohy6v8BeZQj3zMyg6F9qr1gOLImmqPEOxavtFMOTnI11"
 database_id ="be5f88cb25ab447cb153c46f2d87aa04"
 
 
